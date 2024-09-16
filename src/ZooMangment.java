@@ -12,6 +12,7 @@ public class ZooMangment {
         System.out.println("donner le nom de zoo :");
         String zooName=scName.next();
         System.out.println(zooName +" comporte "+nbrCage+" cages");
+  System.out.println("3a55 is the best classroom ");
     }
 
 
